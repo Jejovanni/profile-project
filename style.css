@@ -19,3 +19,8 @@ body{
 .sm-icons .ig{
     padding: 0 20px;
 }
+.about-me{
+    display: flex;
+    gap: 6px;
+    justify-content: space-between;
+}
