@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.profile-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.main-con{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+}
+.sm-icons{
+    margin: 15px 0;
+}
+.sm-icons .ig{
+    padding: 0 20px;
+}
