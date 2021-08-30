@@ -31,3 +31,22 @@ body{
 .about-con{
     width: 50%;
 }
+.chat-now{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+.text-center{
+    text-align: center;
+}
+.margin{
+    margin: 7% 0;
+}
+.one{
+    font-size: 50px;
+    font-weight: 900;
+}
+.margin-para{
+    font-weight: 900;
+    font-size: 50px;
+}
